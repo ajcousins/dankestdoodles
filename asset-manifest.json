@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dankestdoodles/static/css/main.a81bde87.chunk.css",
+    "main.js": "/dankestdoodles/static/js/main.a1c4aaf9.chunk.js",
+    "main.js.map": "/dankestdoodles/static/js/main.a1c4aaf9.chunk.js.map",
+    "runtime-main.js": "/dankestdoodles/static/js/runtime-main.ea3e018e.js",
+    "runtime-main.js.map": "/dankestdoodles/static/js/runtime-main.ea3e018e.js.map",
+    "static/js/2.473fd258.chunk.js": "/dankestdoodles/static/js/2.473fd258.chunk.js",
+    "static/js/2.473fd258.chunk.js.map": "/dankestdoodles/static/js/2.473fd258.chunk.js.map",
+    "index.html": "/dankestdoodles/index.html",
+    "static/css/main.a81bde87.chunk.css.map": "/dankestdoodles/static/css/main.a81bde87.chunk.css.map",
+    "static/js/2.473fd258.chunk.js.LICENSE.txt": "/dankestdoodles/static/js/2.473fd258.chunk.js.LICENSE.txt",
+    "static/media/exit-white.a0626105.svg": "/dankestdoodles/static/media/exit-white.a0626105.svg",
+    "static/media/expand.361c35f6.svg": "/dankestdoodles/static/media/expand.361c35f6.svg",
+    "static/media/left-white.c80110bd.svg": "/dankestdoodles/static/media/left-white.c80110bd.svg",
+    "static/media/pencil2.eea4b4f9.svg": "/dankestdoodles/static/media/pencil2.eea4b4f9.svg",
+    "static/media/radio-filled.51e88d9a.svg": "/dankestdoodles/static/media/radio-filled.51e88d9a.svg",
+    "static/media/radio.cf632bc0.svg": "/dankestdoodles/static/media/radio.cf632bc0.svg",
+    "static/media/right-white.f1a6c03c.svg": "/dankestdoodles/static/media/right-white.f1a6c03c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea3e018e.js",
+    "static/js/2.473fd258.chunk.js",
+    "static/css/main.a81bde87.chunk.css",
+    "static/js/main.a1c4aaf9.chunk.js"
+  ]
+}
